@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name = "air_sea",
+    name = "Basic_stats_complete_GROUP",
     version = "0.1",
-    author = "Brice Loose",
-    packages=['air_sea'],
+    author = "Allison Kaht",
+    packages=['Basic_stats_complete_GROUP'],
     install_requires=['numpy','scipy.io'],
 )
